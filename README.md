@@ -2,3 +2,4 @@
 danas je lep dan
 test 2
 text 3
+Neki text 4.
