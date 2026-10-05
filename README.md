@@ -7,4 +7,5 @@ Neki text 4.
 Nova recenica.
 Neka jos.
 Jos jedna recenica.
+Ma jos jedna.
 Novi primer.
